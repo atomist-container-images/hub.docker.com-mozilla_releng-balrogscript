@@ -1,4 +1,5 @@
-# Tags: dev-20211214120809-8ee01aaff049761a0edb199f1d01d1dd61a62363, dev, dev-20211220200516-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501
-FROM mozilla/releng-balrogscript:dev-20211214120809-8ee01aaff049761a0edb199f1d01d1dd61a62363
-FROM mozilla/releng-balrogscript:dev
-FROM mozilla/releng-balrogscript:dev-20211220200516-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501
+# Tags: production-20220316161241-73949bc08daa18ecabbf3d6f34ec68d1e4abdf5c
+FROM mozilla/releng-balrogscript:production-20220316161241-73949bc08daa18ecabbf3d6f34ec68d1e4abdf5c
+
+# Tags: production
+FROM mozilla/releng-balrogscript:production
